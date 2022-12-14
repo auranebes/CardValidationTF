@@ -11,13 +11,6 @@ This package provides cutom TextFields for bank card input data
             <th>DateExpirationTextField</th>
         </tr>
     </thead>
-    <tbody>
-        <tr>
-            <td>
-              
-            </td>
-        </tr>
-    </tbody>
 </table>
 
 <p><h1 align="left">Popup View</h1></p>
