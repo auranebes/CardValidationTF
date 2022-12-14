@@ -15,7 +15,7 @@ public enum CardBankType {
   case mir
   case nonIdentified
   
-  var textFieldIcon: String {
+  public var textFieldIcon: String {
     switch self {
     case .visa:
       return "visa.icon.colorized"
