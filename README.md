@@ -13,7 +13,7 @@ This package provides cutom TextFields for bank card input data
     </thead>
 </table>
 
-<p><h1 align="left">Popup View</h1></p>
+<p><h1 align="left">CardValidationTF</h1></p>
 
 <p><h4>Custom TextFiled to check input of card number, cvv, card holder and card expiration date library written with SwiftUI</h4></p>
 
