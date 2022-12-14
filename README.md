@@ -14,7 +14,7 @@ This package provides cutom TextFields for bank card input data
     <tbody>
         <tr>
             <td>
-                <img src="https://drive.google.com/file/d/1uRkytEO3_9R5SmTBbXZqBcJubLZDlXj6/view?usp=share_link" />
+                <img src="[https://drive.google.com/file/d/1uRkytEO3_9R5SmTBbXZqBcJubLZDlXj6/view?usp=share_link](https://drive.google.com/file/d/1uRkytEO3_9R5SmTBbXZqBcJubLZDlXj6/view?usp=sharing)" />
             </td>
         </tr>
     </tbody>
