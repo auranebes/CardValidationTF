@@ -38,7 +38,7 @@ struct ContentView: View {
           tfType: .cardNumber,
           tfFont: .caption,
           tfColor: .black.opacity(0.8),
-          subtitle: "Cardholder Name"
+          subtitle: "Card number"
           )
     }
 }
