@@ -14,7 +14,7 @@ This package provides cutom TextFields for bank card input data
     <tbody>
         <tr>
             <td>
-                <img src=(example.gif)/>
+               ![](https://github.com/auranebes/CardValidationTF/blob/main/example.gif)
             </td>
         </tr>
     </tbody>
