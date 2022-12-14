@@ -1,3 +1,3 @@
 # CardValidationTF
 
-A description of this package.
+This package provides cutom TextFields for bank card input data
